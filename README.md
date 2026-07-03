@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rajeshwari Hiremath</h1>
-<h3 align="center">Computer Science Engineering Student | Data Analytics </h3>
+<h3 align="center">Computer Science Engineering Student | Data Analytics | Machine Learning Enthusiast E</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=rajeshwarishiremath005-bot&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
