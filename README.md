@@ -50,8 +50,6 @@
 ### 🤖 InnoVision
 AI-powered Adaptive Learning Interface (Major Project)
 
-### 🛣️ SmartRoad AI *(Upcoming)*
-AI-powered intelligent road and traffic information system.
 
 ---
 
@@ -59,7 +57,7 @@ AI-powered intelligent road and traffic information system.
 
 - 🎖️ NPTEL Certification
 - 🎖️ Deloitte Data Analytics Job Simulation
-- 🎖️ CodeAlpha Data Analytics Internship
+
 
 ---
 
@@ -83,7 +81,7 @@ AI-powered intelligent road and traffic information system.
 
 ## 📫 Connect with Me
 
-- 💼 LinkedIn: *(Add your LinkedIn URL here)*
+- 💼 LinkedIn: *https://www.linkedin.com/in/rajeshwari-hiremath-a69061270*
 - 📧 Email: **rajeshwarishiremath005@gmail.com**
 
 ---
